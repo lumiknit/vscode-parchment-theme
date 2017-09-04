@@ -1,0 +1,22 @@
+{
+    "name": "parchment",
+    "displayName": "parchment",
+    "description": "",
+    "version": "0.0.5",
+    "publisher": "lumiknit",
+    "engines": {
+        "vscode": "^1.15.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Parchment",
+                "uiTheme": "vs",
+                "path": "./themes/Parchment-color-theme.json"
+            }
+        ]
+    }
+}
