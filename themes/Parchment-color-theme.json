@@ -59,6 +59,18 @@
 		"button.hoverBackground": "#B0AAA4",
 		
 		"badge.background": "#9C9793",
+		
+		"notification.background": "#e8e3df",
+		"notification.foreground": "#000000",
+		"notification.infoBackground": "#2981ca",
+		"notification.infoForeground": "#ffffff",
+		"notification.errorBackground": "#e41507",
+		"notification.errorForeground": "#ffffff",
+		"notification.warningBackground": "#FAEE10",
+		"notification.warningForeground": "#000000",
+		"notification.buttonBackground": "#9C9793",
+		"notification.buttonForeground": "#ffffff",
+		"notification.buttonHoverBackground": "#B0AAA4",
 
 		"terminal.background": "#e8e3df",
 		"terminal.foreground": "#000000",
