@@ -2,7 +2,7 @@
     "name": "parchment",
     "displayName": "parchment",
     "description": "",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "publisher": "lumiknit",
     "engines": {
         "vscode": "^1.15.0"

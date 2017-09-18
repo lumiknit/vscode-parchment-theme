@@ -1,5 +1,13 @@
 # Change Log
-All notable changes to the "parchment" extension will be documented in this file.
+Change Log of Parchment Theme
+
+## 0.0.8
+- Changed Built-in Terminal Color
+- Changed Bracket Match Color
+- Changed Find Match Color
+- Changed Hover Color
+- Changed Whitespace Character Color
+- CHanged String Color
 
 ## 0.0.7
 - Added Notification Color
