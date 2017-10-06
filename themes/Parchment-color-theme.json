@@ -168,7 +168,10 @@
 		},
 		{
 			"name": "Operators",
-			"scope": "keyword.operator",
+			"scope": [
+				"keyword.operator",
+				"keyword.control.preprocessor"
+			],
 			"settings": {
 				"foreground": "#e41507"
 			}
