@@ -1,6 +1,11 @@
 # Change Log
 Change Log of Parchment Theme
 
+## 0.0.10
+- Changed a border color of input
+- Changed a foreground color of buttons on activity bar
+- More parenthesis be red
+
 ## 0.0.9
 - Add keyword.preprocessor
 

@@ -6,7 +6,7 @@
 		"editor.foreground": "#000000",
 		"editorCursor.background": "#ffffff",
 		"editorCursor.foreground": "#4A453F",
-		"editor.selectionBackground": "#e8e3df",
+		"editor.selectionBackground": "#d4ccc6",
 		"editor.lineHighlightBackground": "#e8e3df",
 		
 		"editor.findRangeHighlightBackground": "#d8d5cf",
@@ -18,6 +18,7 @@
 		"editorWidget.background": "#e8e3df",
 		
 		"editorGroup.background": "#e8e3df",
+		"editorGroup.emptyBackground": "#e8e3df",
 		"editorGroupHeader.tabsBackground": "#e8e3df",
 		
 		"editorBracketMatch.border": "#d8d5cf",
@@ -45,13 +46,14 @@
 		
 		"activityBar.border": "#e8e3df",
 		"activityBar.background": "#e8e3df",
+		"activityBar.foreground": "#4A453F",
 		
 		"sideBar.background": "#e8e3df",
 		"sideBar.foreground": "#000000",
 		"sideBar.dropBackground": "#DBD5CF",
 		
 		"input.background": "#F3EEE8",
-		"input.border": "#F3EEE8",
+		"input.border": "#9c9793",
 		"input.foreground": "#000000",
 		
 		"list.activeSelectionBackground": "#F3ECE5",
@@ -114,6 +116,7 @@
 		"terminal.ansiBrightRed": "#FF675D",
 		"terminal.ansiBrightWhite": "#ffffff",
 		"terminal.ansiBrightYellow": "#E6BB00"
+
 	},
 	"tokenColors": [
 		{
@@ -170,7 +173,9 @@
 			"name": "Operators",
 			"scope": [
 				"keyword.operator",
-				"keyword.control.preprocessor"
+				"keyword.control.preprocessor",
+				"keyword.other.colon",
+				"keyword.other.double-colon"
 			],
 			"settings": {
 				"foreground": "#e41507"
@@ -309,7 +314,13 @@
 		},
 		{
 			"name": "Punctuation",
-			"scope": "punctuation",
+			"scope": [
+				"punctuation",
+				"meta.brace",
+				"meta.bracket",
+				"meta.paren",
+				"meta.paren-group"
+			],
 			"settings": {
 				"foreground": "#ec444f"
 			}
