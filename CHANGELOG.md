@@ -1,9 +1,12 @@
 # Change Log
 Change Log of Parchment Theme
 
+## 0.0.11
+- Changed the background color of button on extension panel
+
 ## 0.0.10
-- Changed a border color of input
-- Changed a foreground color of buttons on activity bar
+- Changed the border color of input
+- Changed the foreground color of buttons on activity bar
 - More parenthesis be red
 
 ## 0.0.9

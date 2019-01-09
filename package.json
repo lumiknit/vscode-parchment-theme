@@ -2,7 +2,7 @@
     "name": "parchment",
     "displayName": "Parchment Theme",
     "description": "Parchment Theme for VS Code",
-    "version": "0.0.10",
+    "version": "0.0.11",
     "publisher": "lumiknit",
     "engines": {
         "vscode": "^1.15.0"

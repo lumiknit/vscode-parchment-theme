@@ -76,11 +76,12 @@
 		"statusBar.debuggingBackground": "#d8d5cf",
 		"statusBar.foreground": "#000000",
 		
-		"extensionButton.prominentBackground": "#e8e3df",
+		"extensionButton.prominentBackground": "#9C9793",
 		"extensionButton.prominentHoverBackground": "#B0AAA4",
 		"button.background": "#9C9793",
 		"button.hoverBackground": "#B0AAA4",
-		
+		"button.foreground": "#4A453F",
+
 		"badge.background": "#9C9793",
 		"badge.foreground": "#F3ECE5",
 		
@@ -316,6 +317,7 @@
 			"name": "Punctuation",
 			"scope": [
 				"punctuation",
+				"comment.punctuation",
 				"meta.brace",
 				"meta.bracket",
 				"meta.paren",
